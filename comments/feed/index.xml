@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Komentar untuk aroma-walet	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/comments/feed" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
 	<lastBuildDate>Thu, 23 Feb 2023 05:48:40 +0000</lastBuildDate>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Komentar di Halo dunia! oleh Seorang Komentator WordPress		</title>
-		<link>/2023/02/23/halo-dunia/#comment-1</link>
+		<link>/halo-dunia.html#comment-1</link>
 
 		<dc:creator><![CDATA[Seorang Komentator WordPress]]></dc:creator>
 		<pubDate>Thu, 23 Feb 2023 05:48:40 +0000</pubDate>
