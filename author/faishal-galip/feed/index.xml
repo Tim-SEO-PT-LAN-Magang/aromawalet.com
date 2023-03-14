@@ -655,25 +655,5 @@
 		
 		
 			</item>
-		<item>
-		<title>Halo dunia!</title>
-		<link>/halo-dunia.html</link>
-					<comments>/halo-dunia.html#comments</comments>
-		
-		<dc:creator><![CDATA[faishal.galip]]></dc:creator>
-		<pubDate>Thu, 23 Feb 2023 05:48:40 +0000</pubDate>
-				<category><![CDATA[Tak Berkategori]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
-
-					<description><![CDATA[Selamt datang di WordPress. Ini adalah pos pertama Anda. Sunting atau hapus, kemudian mulai menulis!]]></description>
-										<content:encoded><![CDATA[
-<p>Selamt datang di WordPress. Ini adalah pos pertama Anda. Sunting atau hapus, kemudian mulai menulis!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/halo-dunia.html/feed</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
 	</channel>
 </rss>
