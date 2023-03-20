@@ -2,29 +2,21 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://pemikatwalet.com/</loc>
-		<lastmod>2023-03-15T03:03:24+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://pemikatwalet.com/testimoni</loc>
-		<lastmod>2023-03-15T04:24:00+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://pemikatwalet.com/produk</loc>
-		<lastmod>2023-03-15T04:23:50+00:00</lastmod>
+		<lastmod>2023-03-20T02:26:43+00:00</lastmod>
 		<image:image>
-			<image:loc>https://pemikatwalet.com/wp-content/uploads/2023/02/Parfum-walet-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://pemikatwalet.com/wp-content/uploads/2023/03/IMG_2202.jpg</image:loc>
+			<image:loc>https://pemikatwalet.com/wp-content/uploads/2023/02/Parfum-walet-3.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://pemikatwalet.com/kontak</loc>
-		<lastmod>2023-03-15T04:23:36+00:00</lastmod>
+		<loc>https://pemikatwalet.com/tentang</loc>
+		<lastmod>2023-03-20T04:52:31+00:00</lastmod>
+		<image:image>
+			<image:loc>https://pemikatwalet.com/wp-content/uploads/2023/02/Parfum-walet-3.png</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://pemikatwalet.com/blog</loc>
-		<lastmod>2023-03-15T02:59:25+00:00</lastmod>
+		<lastmod>2023-03-20T02:45:17+00:00</lastmod>
 		<image:image>
 			<image:loc>https://pemikatwalet.com/wp-content/uploads/2023/02/walet-292102-1.jpg</image:loc>
 		</image:image>
@@ -45,10 +37,28 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://pemikatwalet.com/kontak</loc>
+		<lastmod>2023-03-20T02:43:14+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://pemikatwalet.com/testimoni</loc>
+		<lastmod>2023-03-20T02:42:07+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://pemikatwalet.com/layanan</loc>
-		<lastmod>2023-03-15T02:49:22+00:00</lastmod>
+		<lastmod>2023-03-20T02:34:52+00:00</lastmod>
 		<image:image>
 			<image:loc>https://pemikatwalet.com/wp-content/uploads/2023/02/Parfum-walet-njay-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://pemikatwalet.com/produk</loc>
+		<lastmod>2023-03-20T02:31:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://pemikatwalet.com/wp-content/uploads/2023/02/Parfum-walet-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://pemikatwalet.com/wp-content/uploads/2023/03/IMG_2202.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
