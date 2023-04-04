@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//pemikatwalet.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://pemikatwalet.com/parfum-walet-aroma-khas-dari-kesenangan-burung-walet.html</loc>
+		<lastmod>2023-04-04T04:46:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://pemikatwalet.com/wp-content/uploads/2023/02/walet-129210-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://pemikatwalet.com/wp-content/uploads/2023/04/DSC00888.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://pemikatwalet.com/pengenalan-tentang-parfum-pemikat-burung-walet.html</loc>
+		<lastmod>2023-04-04T04:45:24+00:00</lastmod>
+		<image:image>
+			<image:loc>https://pemikatwalet.com/wp-content/uploads/2023/04/parfum-walet-3.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://pemikatwalet.com/bau-apa-yang-disukai-burung-walet.html</loc>
 		<lastmod>2023-03-13T06:45:18+00:00</lastmod>
 		<image:image>
@@ -12,23 +29,6 @@
 		<lastmod>2023-03-13T06:44:21+00:00</lastmod>
 		<image:image>
 			<image:loc>https://pemikatwalet.com/wp-content/uploads/2023/02/walet-121i21.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://pemikatwalet.com/parfum-walet-aroma-khas-dari-kesenangan-burung-walet.html</loc>
-		<lastmod>2023-03-13T06:37:22+00:00</lastmod>
-		<image:image>
-			<image:loc>https://pemikatwalet.com/wp-content/uploads/2023/02/walet-129210-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://pemikatwalet.com/wp-content/uploads/2023/02/Parfum-walet-2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://pemikatwalet.com/pengenalan-tentang-parfum-pemikat-burung-walet.html</loc>
-		<lastmod>2023-03-13T06:36:57+00:00</lastmod>
-		<image:image>
-			<image:loc>https://pemikatwalet.com/wp-content/uploads/2023/02/parfum-walet-4.png</image:loc>
 		</image:image>
 	</url>
 	<url>
